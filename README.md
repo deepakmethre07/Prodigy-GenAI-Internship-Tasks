@@ -1,5 +1,4 @@
-# Prodigy-GenAI-Internship-Tasks
-# Generative AI Tasks
+# Generative AI projects
 
 This repository contains **five Generative Artificial Intelligence (AI) tasks**
 implemented using **Python and Deep Learning**.
